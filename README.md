@@ -49,6 +49,16 @@ I design and run AWS infrastructure as code, ship CI/CD pipelines, and operate m
 - **ResumeIQ**: AI platform that generates, optimizes and scores resumes (REST APIs, PostgreSQL, Redis, Docker)
 
 <!-- STREAK:START -->
+## 🔥 Push Streak
+
+| Metric | Value |
+|--------|-------|
+| ❄️ Current streak | **0 days** |
+| 🏆 Longest streak | **3 days** |
+| 📅 Total push days | **14** |
+| 🕐 Last push | **2026-11-25** |
+
+> Automatically updated by [update_github_profile.py](./update_github_profile.py)
 <!-- STREAK:END -->
 
 ## Connect
