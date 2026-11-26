@@ -48,6 +48,9 @@ I design and run AWS infrastructure as code, ship CI/CD pipelines, and operate m
 - **BiasharaIQ**: financial intelligence platform for SMEs with AI-powered transaction categorization and M-Pesa payments (Docker, Terraform, AWS)
 - **ResumeIQ**: AI platform that generates, optimizes and scores resumes (REST APIs, PostgreSQL, Redis, Docker)
 
+<!-- STREAK:START -->
+<!-- STREAK:END -->
+
 ## Connect
 
 📫 www.linkedin.com/in/james-wachira-105949402
