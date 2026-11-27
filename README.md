@@ -56,4 +56,15 @@ I design and run AWS infrastructure as code, ship CI/CD pipelines, and operate m
 
 📫 www.linkedin.com/in/james-wachira-105949402
 
+<!-- STREAK:START -->
+## 🔥 Push Streak
 
+| Metric | Value |
+|--------|-------|
+| ❄️ Current streak | **0 days** |
+| 🏆 Longest streak | **3 days** |
+| 📅 Total push days | **15** |
+| 🕐 Last push | **2026-11-26** |
+
+> Automatically updated by [update_github_profile.py](./update_github_profile.py)
+<!-- STREAK:END -->
